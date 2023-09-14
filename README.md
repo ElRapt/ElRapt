@@ -26,7 +26,7 @@ Hi! I’m Lucas, a 21-year-old French computer science master's student in Clerm
 ## [🤖 Global Slow Mode *(2023)*](https://github.com/ElRapt/globalslowmode)
 
 This project is a simple discord bot built in Python which allows server owners to add a shared "slow mode" in channels of their choice.
-Each server has its own settings which persist in a database. 
+Each server it is present on has its own settings which persist in a database. 
 
 <p align="center">
 	<a href="https://github.com/ElRapt/globalslowmode"><img src="https://raw.githubusercontent.com/ElRapt/globalslowmode/main/assets/thumbnail.png" width="500"></a>
@@ -40,6 +40,15 @@ This project, made for my studies, is a very simple graphical protocol inspired 
 <p align="center">
 	<a href="https://github.com/ElRapt/trianglecode"><img src="https://user-images.githubusercontent.com/102360910/239528254-7a661ad6-6d4b-49cc-871c-f9d93561dfbb.png" width="500"></a>
 </p>
+
+## [🐤 I AM *(2023)*](https://github.com/ElRapt/IAM)
+
+This Twitter bot is designed to periodically tweet phrases that begin with "I am" followed by a word from a predefined dictionary.
+
+<p align="center">
+	<a href="https://github.com/ElRapt/IAM"><img src="https://raw.githubusercontent.com/ElRapt/IAM/main/assets/thumbnail.png" width="500"></a>
+</p>
+
 
 
 

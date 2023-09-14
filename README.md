@@ -1,16 +1,34 @@
-### Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**ElRapt/ElRapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Lucas, a 21-year-old French computer science master's student. I'm enthusiastic about software development, Python, and always looking for new side projects. Learn more about me on [GitHub](https://www.github.com/ElRapt).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+# 📞 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/lucas-denis-558a58225/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<span>&nbsp;</span>
+	<a href="mailto:lucasdenis03@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+</p>
+
+<br>
+
+# 📂 Projects
+
+## [🤖 Global Slow Mode *(2023)*](https://github.com/ElRapt/globalslowmode)
+
+This project is a simple discord bot built in Python which allows server owners to add a shared "slow mode" in channels of their choice.
+Each server has its own settings which persist in a database. 
+
+<p align="center">
+	<a href="https://github.com/ElRapt/globalslowmode"><img src="https://raw.githubusercontent.com/ElRapt/globalslowmode/main/assets/thumbnail.png" width="500"></a>
+</p>
+

@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hi! I’m Lucas, a 21-year-old French computer science master's student. I'm enthusiastic about software development, Python, and always looking for new side projects. Learn more about me on [GitHub](https://www.github.com/ElRapt).
+Hi! I’m Lucas, a 21-year-old French computer science master's student in Clermont-Ferrand. I'm enthusiastic about software development, Python, and always looking for new side projects.
 
 
 <br>

@@ -32,3 +32,14 @@ Each server has its own settings which persist in a database.
 	<a href="https://github.com/ElRapt/globalslowmode"><img src="https://raw.githubusercontent.com/ElRapt/globalslowmode/main/assets/thumbnail.png" width="500"></a>
 </p>
 
+
+## [🔺 Triangle Code *(2023)*](https://github.com/ElRapt/trianglecode)
+
+This project, made for my studies, is a very simple graphical protocol inspired by the infamous QR Code, however using a triangle shaped image encoding process. 
+
+<p align="center">
+	<a href="https://github.com/ElRapt/trianglecode"><img src="https://user-images.githubusercontent.com/102360910/239528254-7a661ad6-6d4b-49cc-871c-f9d93561dfbb.png" width="500"></a>
+</p>
+
+
+

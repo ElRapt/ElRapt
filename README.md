@@ -23,6 +23,14 @@ Hi! I’m Lucas, a 21-year-old French computer science master's student in Clerm
 
 # 📂 Projects
 
+## [🦠 Raptor's Game of Life *(Work In Progress)*](https://github.com/ElRapt/raptor-s-game-of-life)
+
+This repository contains my own C++ implementation of Conway's Game of Life, a cellular automaton devised by the British mathematician John Conway. The project aims to provide a fast and efficient simulation while adhering to modern C++ standards. It was mostly made to have fun with SFML and the language.
+
+<p align="center">
+	<a href="https://github.com/ElRapt/raptor-s-game-of-life"><img src="https://raw.githubusercontent.com/ElRapt/raptor-s-game-of-life/master/thumbnail.png" width="500"></a>
+</p>
+
 ## [🤖 Global Slow Mode *(2023)*](https://github.com/ElRapt/globalslowmode)
 
 This project is a simple discord bot built in Python which allows server owners to add a shared "slow mode" in channels of their choice.

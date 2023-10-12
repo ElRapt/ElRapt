@@ -23,7 +23,7 @@ Hi! I’m Lucas, a 21-year-old French computer science master's student in Clerm
 
 # 📂 Projects
 
-## [🦠 Raptor's Game of Life *2023)* - C++](https://github.com/ElRapt/raptor-s-game-of-life)
+## [🦠 Raptor's Game of Life (*2023)* - C++](https://github.com/ElRapt/raptor-s-game-of-life)
 
 This repository contains my custom C++ implementation of Conway's Game of Life, a cellular automaton devised by the British mathematician John Conway. The project aims to provide a fast and efficient simulation using hexagons instead of rectangles. It was mostly made to have fun with SFML and the language.
 

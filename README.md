@@ -1,3 +1,9 @@
+<p align="center">
+	<a href="https://elrapt.github.io/Portfolio-site/"><img src="https://github.com/ElRapt/ElRapt/blob/a96303b3c7431b500ff7c8d71c7c7137ff56dca3/Banner%20png.png" width="100%"></a>
+</p>
+
+<br>
+
 # 👨‍💻 About Me
 
 Hi! I’m Lucas, a 21-year-old French computer science master's student in Clermont-Ferrand. I'm enthusiastic about software development, Python, and always looking for new side projects.

@@ -44,7 +44,7 @@ This project is a simple discord bot built in Python which allows server owners 
 Each server it is present on has its own settings which persist in a database. 
 
 <p align="center">
-	<a href="https://github.com/ElRapt/globalslowmode"><img src="https://raw.githubusercontent.com/ElRapt/globalslowmode/main/assets/thumbnail.png" width="500"></a>
+	<a href="https://github.com/ElRapt/globalslowmode"><img src="https://raw.githubusercontent.com/ElRapt/globalslowmode/main/assets/icon.png" width="500"></a>
 </p>
 
 

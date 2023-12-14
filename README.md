@@ -28,6 +28,13 @@ Check my website at https://elrapt.github.io/Portfolio-site/.
 
 <br>
 
+# 🍵 Support
+
+<p align="center">
+	<a href="ko-fi.com/elraptou">
+<img src="https://img.shields.io/badge/-KOFI-D14836?style=for-the-badge&logo=kofi&logoColor=white">
+	</a>
+</p>
 # 📂 Projects
 
 ## [🦠 Raptor's Game of Life (*2023)* - C++](https://github.com/ElRapt/raptor-s-game-of-life)

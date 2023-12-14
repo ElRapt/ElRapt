@@ -36,6 +36,8 @@ Check my website at https://elrapt.github.io/Portfolio-site/.
 	</a>
 </p>
 
+<br>
+
 # 📂 Projects
 
 ## [🦠 Raptor's Game of Life (*2023)* - C++](https://github.com/ElRapt/raptor-s-game-of-life)

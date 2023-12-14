@@ -31,7 +31,7 @@ Check my website at https://elrapt.github.io/Portfolio-site/.
 # 🍵 Support
 
 <p align="center">
-	<a href="ko-fi.com/elraptou">
+	<a href="[ko-fi.com/elraptou](https://ko-fi.com/elraptou)">
 <img src="https://img.shields.io/badge/-KOFI-D14836?style=for-the-badge&logo=kofi&logoColor=white">
 	</a>
 </p>

@@ -45,7 +45,7 @@ Check my website at https://elrapt.github.io/Portfolio-site/.
 This repository contains HoardCraft, a discord bot built with pycord, which allows users to collect cards representing characters of various rarities and importance of the Warcraft Universe, coming from several sets.
 
 <p align="center">
-	<a href="https://github.com/ElRapt/raptor-s-game-of-life"><img src="https://raw.githubusercontent.com/ElRapt/HoardCraft/main/thumb.png" width="500"></a>
+	<a href="https://github.com/ElRapt/HoardCraft"><img src="https://raw.githubusercontent.com/ElRapt/HoardCraft/main/thumb.png" width="500"></a>
 </p>
 
 ## [🦠 Raptor's Game of Life (*2023)* - C++](https://github.com/ElRapt/raptor-s-game-of-life)

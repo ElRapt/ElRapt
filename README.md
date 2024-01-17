@@ -40,6 +40,14 @@ Check my website at https://elrapt.github.io/Portfolio-site/.
 
 # 📂 Projects
 
+## [🂼 HoardCraft (*2024)* - Python](https://github.com/ElRapt/HoardCraft)
+
+This repository contains HoardCraft, a discord bot built with pycord, which allows users to collect cards representing characters of various rarities and importance of the Warcraft Universe, coming from several sets.
+
+<p align="center">
+	<a href="https://github.com/ElRapt/raptor-s-game-of-life"><img src="https://raw.githubusercontent.com/ElRapt/HoardCraft/main/thumb.png" width="500"></a>
+</p>
+
 ## [🦠 Raptor's Game of Life (*2023)* - C++](https://github.com/ElRapt/raptor-s-game-of-life)
 
 This repository contains my custom C++ implementation of Conway's Game of Life, a cellular automaton devised by the British mathematician John Conway. The project aims to provide a fast and efficient simulation using hexagons instead of rectangles. It was mostly made to have fun with SFML and the language.

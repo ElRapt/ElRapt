@@ -6,7 +6,7 @@
 
 # 👨‍💻 About Me
 
-Hi! I’m Lucas, a 21-year-old French computer science master's student in Clermont-Ferrand. I'm enthusiastic about software development, Python, and always looking for new side projects.
+Hi! I’m Lucas, a 22-year-old French computer science master's student in Clermont-Ferrand. I'm enthusiastic about software development, Python, and always looking for new side projects.
 
 Check my website at https://elrapt.github.io/Portfolio-site/.
 

@@ -40,6 +40,14 @@ Check my website at https://elrapt.github.io/Portfolio-site/.
 
 # 📂 Projects
 
+## [🩹 FleshWound (*2025*) - LUA](https://github.com/ElRapt/FleshWound)
+
+This is the repository of FleshWound, my WoW Roleplaying add-on designed to help players easily manage and track the wounds, scars, and injuries of their characters.
+
+<p align="center">
+	<a href="https://github.com/ElRapt/FleshWound"><img src="https://github.com/user-attachments/assets/8efb0de8-f2f9-4240-9dc2-5faf4d0a0960" width="500"></a>
+</p>
+
 ## [🂼 HoardCraft (*2024)* - Python](https://github.com/ElRapt/HoardCraft)
 
 This repository contains HoardCraft, a discord bot built with pycord, which allows users to collect cards representing characters of various rarities and importance of the Warcraft Universe, coming from several sets.
